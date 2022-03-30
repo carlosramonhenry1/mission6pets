@@ -1,0 +1,41 @@
+ .greynav{
+    position: absolute;
+    display: flex;
+width: 1512px;
+height: 92px;
+left: 0px;
+top: 92px;
+width: 100vw;
+ background: #C4C4C4; 
+} 
+
+.greynavitems1{
+    display: flex;
+   list-style: none;
+   text-align: center;
+   width: 70vw;
+   justify-content: center;
+   margin: auto;
+
+   font-family: 'Roboto Condensed';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+text-decoration: none;
+
+
+}
+
+.colournav { 
+    text-decoration: none; 
+     color: #FFFFFF;
+   } 
+
+   .greynavitems1 a:hover{
+       background: red
+   }
+   
+
+

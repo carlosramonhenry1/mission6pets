@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "body-parser": "^1.19.2",
+    "bootstrap": "^5.1.3",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "mongodb": "^4.4.1",
+    "mongoose": "^6.2.8",
+    "react-router-dom": "^6.2.2",
+    "react-search-field": "^2.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "mission_6_week2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reubzzz/Mission_6_week2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reubzzz/Mission_6_week2/issues"
+  },
+  "homepage": "https://github.com/Reubzzz/Mission_6_week2#readme",
+  "description": ""
+}

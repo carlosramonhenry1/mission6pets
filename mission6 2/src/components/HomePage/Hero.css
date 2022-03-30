@@ -1,0 +1,10 @@
+
+.hero1{
+    position: absolute;
+    width: 100%;
+    height: 600px;
+    top:180px;
+    background-image: url("hero1.jpg");
+    background-size: cover; /* Resize the background image to cover the entire container */
+    
+}    

@@ -1,0 +1,10 @@
+version: '2'
+
+service:
+  web: 
+    build:
+      context:
+      dockerfile: dockerfile
+    container_name: web
+    ports:
+      - "8080:3000"

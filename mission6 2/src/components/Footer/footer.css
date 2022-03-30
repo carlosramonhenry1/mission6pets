@@ -1,0 +1,57 @@
+.cardfooter{
+    position: absolute;
+    width: 1512px;
+    height: 150px;
+    left: 0px;
+    top: 2367px;
+
+
+    background: #D7C8C8;    
+  }
+
+
+
+.Mc {
+    position: absolute;
+    width: 1512px;
+    height: 150px;
+    left: 200px;
+    top: 20px;
+
+}
+
+.VISA {
+    position: absolute;
+    width: 1512px;
+    height: 150px;
+    left: 450px;
+    top: 20px;
+
+}
+
+.Express {
+    position: absolute;
+    width: 1512px;
+    height: 20px;
+    left: 680px;
+    top: 20px;
+
+}
+
+.Laybuy {
+    position: absolute;
+    width: 1512px;
+    height: 150px;
+    left: 900px;
+    top: 20px;
+
+}
+
+.Afterpay {
+    position: absolute;
+    width: 1512px;
+    height: 150px;
+    left: 1150px;
+    top: 20px;
+
+}
